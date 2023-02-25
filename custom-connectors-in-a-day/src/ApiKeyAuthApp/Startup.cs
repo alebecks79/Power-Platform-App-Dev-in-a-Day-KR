@@ -15,6 +15,7 @@ using Microsoft.OpenApi.Models;
 
 namespace ApiKeyAuthApp
 {
+    
     public class Startup : FunctionsStartup
     {
         public override void ConfigureAppConfiguration(IFunctionsConfigurationBuilder builder)
